@@ -32,3 +32,7 @@ if __name__ == "__main__":
         print(f"\nThe dot product of {vector1} and {vector2} is: {result}")
     except ValueError as e:
         print(f"\nError: {e}")
+BRO BASICALLY YOUR CODE IS BAD .
+BUT MY CODE IS GOOD .
+YOU BAD
+ME GOOD
